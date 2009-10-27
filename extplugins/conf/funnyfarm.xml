@@ -1,0 +1,8 @@
+<configuration plugin="funnyfarm">
+	<settings name="commands">
+		<set name="ffreset">80</set>
+		<set name="ffspeedup-adrenaline">80</set>
+		<set name="ffjump">80</set>
+		<set name="ffberserk-berserk">80</set>
+	</settings>
+</configuration>
